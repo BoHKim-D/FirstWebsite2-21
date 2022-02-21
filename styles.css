@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+}
+.banner {
+    text-align: center;
+    padding: 50px 50px;
+}
+.introduction-title {
+    width:50%;
+    float: left;
+    text-align: center;
+    margin: 3% 3%;
+}
+
+.characterProfile {
+    padding-top: 5%;
+    float: right;
+    width:40%;
+} 
+
+h1,h2,p,span {
+    color:azure;
+}
+
+iframe {
+    margin: 5% 5%;
+}
